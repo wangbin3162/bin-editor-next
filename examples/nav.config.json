@@ -1,0 +1,21 @@
+{
+  "开发指南": [
+    {
+      "name": "guide",
+      "path": "/guide",
+      "desc": "介绍"
+    },
+    {
+      "name": "editor",
+      "path": "/editor",
+      "icon": "ios-list-box",
+      "desc": "编辑器示例"
+    },
+    {
+      "name": "options",
+      "path": "/options",
+      "icon": "ios-list-box",
+      "desc": "options配置项"
+    }
+  ]
+}
