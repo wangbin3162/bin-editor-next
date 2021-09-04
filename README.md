@@ -1,6 +1,6 @@
 ## 介绍
 
-bin-editor-next现已更新至3.0.0+版本，为适应vue3+ ，原支持vue2.6版本的editor已拉分支保存，最新保存版本为`2.0.0`版本
+bin-editor-next 为更好的区分vue版本依赖，现包名已更新为bin-editor-next，组件名不变。
 
 ### 最新版本
 
