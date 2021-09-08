@@ -6,6 +6,11 @@
       "desc": "介绍"
     },
     {
+      "name": "logs",
+      "path": "/logs",
+      "desc": "更新日志"
+    },
+    {
       "name": "editor",
       "path": "/editor",
       "icon": "ios-list-box",
