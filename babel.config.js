@@ -26,7 +26,7 @@ module.exports = {
       ],
       plugins: [
         [
-          'module-resolver',
+          'babel-plugin-module-resolver',
           {
             root: ['bin-editor-next'],
             alias: { 'bin-editor-next/src': 'bin-editor-next/lib' },
