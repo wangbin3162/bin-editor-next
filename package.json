@@ -1,7 +1,7 @@
 {
   "name": "bin-editor-next",
   "description": "基于vue的代码编辑器插件",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "keywords": [
     "bin-editor-next",
     "vue3",
@@ -28,7 +28,6 @@
     "lint-fix": "eslint --fix ./src --ext .vue,.js,.ts"
   },
   "dependencies": {
-    "bin-ui-next": "^1.0.6",
     "brace": "^0.11.1"
   },
   "devDependencies": {
@@ -38,17 +37,20 @@
     "@babel/plugin-transform-runtime": "^7.12.1",
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.11.5",
+    "@babel/runtime": "^7.15.4",
     "@rollup/plugin-babel": "^5.2.2",
     "@rollup/plugin-commonjs": "^20.0.0",
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^13.0.5",
     "@rollup/plugin-replace": "^3.0.0",
     "@vue/babel-plugin-jsx": "^1.0.0",
-    "@vue/compiler-sfc": "^3.2.19",
+    "@vue/compiler-sfc": "^3.2.20",
+    "@vue/shared": "^3.2.20",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.2.2",
     "babel-plugin-module-resolver": "^4.1.0",
     "babel-plugin-transform-class-properties": "^6.24.1",
+    "bin-ui-next": "^1.0.9",
     "cross-env": "^7.0.2",
     "css-loader": "^6.3.0",
     "css-minimizer-webpack-plugin": "^3.0.2",
@@ -80,7 +82,7 @@
     "stylus-loader": "6.1.0",
     "transliteration": "^2.2.0",
     "url-loader": "^4.1.1",
-    "vue": "^3.2.19",
+    "vue": "^3.2.20",
     "vue-loader": "16.5.0",
     "vue-router": "^4.0.2",
     "webpack": "^5.54.0",
