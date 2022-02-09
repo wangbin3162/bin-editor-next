@@ -22,7 +22,7 @@ var map = {
 		320
 	],
 	"./logs.md": [
-		15858,
+		18658,
 		550
 	],
 	"./options.md": [
@@ -266,7 +266,7 @@ module.exports = JSON.parse('{"name":"bin-editor-next","description":"基于vue�
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
-/******/ 		__webpack_require__.h = function() { return "b1c7a5e0b63cf428de64"; }
+/******/ 		__webpack_require__.h = function() { return "5fc7e46d93c1488476f6"; }
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */

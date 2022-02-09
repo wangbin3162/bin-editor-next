@@ -5,7 +5,7 @@
 <div class="doc-update">
     <b-timeline>
       <b-timeline-item>
-        <p class="version">1.2.0</p>
+        <p class="version">1.1.0</p>
         <p class="time">2022-02-9</p>
         <p class="content"><i>🌈</i>更新vue依赖，现依赖正式版vue3。</p>
       </b-timeline-item>
