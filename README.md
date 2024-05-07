@@ -1,6 +1,6 @@
 ## 介绍
 
-bin-editor-next 为更好的区分vue版本依赖，现包名已更新为bin-editor-next，组件名不变。
+bin-editor-next 基于原有bin-ace-editor而来，支持vue3，[说明文档](https://wangbin3162.github.io/bin-editor-next/)
 
 ### 最新版本
 
