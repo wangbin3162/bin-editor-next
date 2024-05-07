@@ -15,7 +15,7 @@
   "main": "lib/bin-editor-next.common.js",
   "module": "src/components/editor/index.vue",
   "unpkg": "lib/bin-editor-next.js",
-  "homepage": "https://wangbin3162.gitee.io/bin-editor-next/",
+  "homepage": "https://wangbin3162.github.io/bin-editor-next/",
   "private": false,
   "license": "MIT",
   "scripts": {
